@@ -3,8 +3,7 @@
 <html lang="pt-br">
 <head>
     <title>Site Institucional</title>
-    <!-- <link rel="stylesheet" type="text/css" href="assets/css/template.css"/> -->
-    <link rel="stylesheet" href="/assets/css/template.css" type="text/css" />
+    <link rel="stylesheet" href="../assets/css/template.css" type="text/css" />
 </head>
 
 <body>
