@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-color: #1e1e1e;
+}
+.topo{
+    width: 100%;
+    max-width: 980px;
+    height: 470px;
+    margin:auto;
+}
+.topo1{
+    height: 120px;
+}
+.banner{
+    height: 350px;
+    background-color: #514e51;
+}
